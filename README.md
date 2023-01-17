@@ -1,5 +1,6 @@
 Bozena Bruhn-Olszewska
 TODO: Add more to the title of your project here
+This is a test of github pull.
 
 # LearningR:
 
