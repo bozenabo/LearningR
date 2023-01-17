@@ -1,4 +1,4 @@
-#when a something else than a conflict happen
+#when a something else than a conflict happen.
 
 10
 
