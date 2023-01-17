@@ -26,11 +26,15 @@ summary(airquality)
 
 # Packages ----------------------------------------------------------------
 
+#Here is an example of conflict
+
 library(tidyverse)
 
 
 r3::check_git_config()
 
 #This will be used for testing out Git
+
+
 
 
